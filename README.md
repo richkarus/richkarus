@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richkarus
-- 👀 I’m interested in learning development languages. Master of none. 
-- 🌱 I’m currently learning Rust. 
+- 👀 I’m interested in learning development languages.
+- 🌱 I’m currently learning Go & Rust.
 - 💞️ I’m looking to collaborate on backend system development.
 - 📫 How to reach me: rich@karus.dev
 
